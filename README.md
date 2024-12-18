@@ -2,9 +2,9 @@
 
 Welcome to my latest project, a Nike-inspired website built with React.js and Tailwind CSS! Explore the world of iconic Nike shoes and experience the blend of style and technology.
 
-👤 **Creator:** [Rohit Ghhosh]
-📧 **Email:** [rohitghosh.works@gmail.com]
-🔗 **Portfolio Website:** [my Portfolio Website](https://my-portfolio-ionicthor.vercel.app/)
+👤 **Creator:** [Jawahar]
+📧 **Email:** [jawalal2323@gmail.com]
+Live demo: https://nike-web-bay.vercel.app/
 
 ## Highlights
 
